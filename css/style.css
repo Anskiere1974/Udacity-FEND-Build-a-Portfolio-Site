@@ -150,6 +150,59 @@ h5 {
     box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.3);
 }
 
+/* Section Pricing */
+
+.pricing-item {
+    text-align: center;
+    margin: 0 0 20px 0;
+    padding: 30px;
+    border: 10px solid #ddd;
+    transition: all 0.5s ease;
+    
+}
+
+.pricing-item:hover {    
+    border: 10px solid #000;
+}
+
+.pricing-header {
+    font-size: 26px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+.dollar {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.pricing-list {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0 0 30px 0;
+    text-align: left;
+    font-size: 16px;
+}
+
+.pricing-list li {
+    margin-bottom: 20px;
+}
+
+.pricing-list li:last-child {
+    margin-bottom: 0;
+}
+
+.pricing-style {
+    margin-right: 20px;
+}
+
+.btn-default {
+    border: 1px solid #000;
+}
+
+
+
 
 
 
