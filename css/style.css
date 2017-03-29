@@ -63,6 +63,25 @@ h5 {
     clear: both;
 }
 
+/* Section feature */
+
+.feature-item {
+    margin-bottom: 20px;
+}
+
+#feature i {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.feature-header {
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
 
 /* Section Service */
 
