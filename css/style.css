@@ -338,7 +338,28 @@ h5 {
     color: #fff;
 }
 
+/*
+****************************************************
+***             Slider                           ***
+****************************************************
+*/
 
+.post-date {
+    color: #fff;
+    padding: 10px 10px;
+    background-color: #000;
+    width: 70px;
+    margin-bottom: 10px;
+}
+
+.slider-header {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.owl-dot.active span {
+    background-color: #337ab7!important;
+}
 
 
 
