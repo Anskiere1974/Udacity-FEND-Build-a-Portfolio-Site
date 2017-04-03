@@ -19,4 +19,9 @@ $(document).ready(function(){
         }
     }
      });
+    
+    // bring the mobile-hamburger online
+    $(".hamburger").on("click", function(){
+        $(".nav-list").slideToggle("slow");
+    });
 });
