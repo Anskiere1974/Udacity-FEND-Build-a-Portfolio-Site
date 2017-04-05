@@ -24,4 +24,7 @@ $(document).ready(function(){
     $(".hamburger").on("click", function(){
         $(".nav-list").slideToggle("slow");
     });
+    
+    // Bring the smooth Scroll online 
+    $('.nav-list li a').smoothScroll();
 });
